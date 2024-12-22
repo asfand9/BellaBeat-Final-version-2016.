@@ -1,7 +1,7 @@
 # BellaBeat-Final-version-2016.
 Overview
-This project analyzes fitness band data to uncover trends and insights into activity levels, calorie burn, and daily movement patterns. The dataset provides detailed information on daily activity, including step counts, active minutes, sedentary time, and calories burned.
-
+This project analyzes fitness band data to uncover trends and insights into activity levels, calorie burn, and daily movement patterns. 
+The dataset provides detailed information on daily activity, including step counts, active minutes, sedentary time, and calories burned.
 The analysis explores how activity intensity impacts calorie expenditure, examines patterns in daily activity, and identifies areas for health improvements.
 
 Dataset
